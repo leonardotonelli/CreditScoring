@@ -1,5 +1,5 @@
 # Credit Scoring Model for Default Risk Prediction
-Project for 30412 - Machine Learning course, at Bocconi University. Contributors: Leonardo Tonelli, Edoardo Putignano, Tommaso Ravasio e Vittoria Fiocchi. 
+Project for 30412 - Machine Learning course, at Bocconi University. Contributors: Leonardo Tonelli, Edoardo Putignano, Tommaso Ravasio and Vittoria Fiocchi. 
 
 
 ## Overview
