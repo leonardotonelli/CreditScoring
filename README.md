@@ -39,7 +39,9 @@ This project focuses on developing a credit scoring model to predict the likelih
 - **Engineered Feature Importance**: `LatePaymentsFrequency` showed high importance in predicting outcomes.
 
 ## ROC AUC Curve
-![ROC AUC Curve](ROC_AUC_curve.png)  <!-- Replace with actual path to the ROC AUC curve image -->
+<p align="center">
+  <img src="ROC_AUC_curve.png" alt="ROC AUC Curve" width="600">
+</p><!-- Replace with actual path to the ROC AUC curve image -->
 
 ## Conclusion
 The project successfully developed several reliable credit scoring models, with the RUS + Boosted Decision Tree model achieving the highest AUC score. The study highlights the importance of addressing class imbalance and the effectiveness of ensemble methods in improving model performance.
